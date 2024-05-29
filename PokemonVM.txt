@@ -1,0 +1,11 @@
+If you run this script on a system where VirtualBox is installed, it will configure and set up a VirtualBox VM named "pokemon" with Ubuntu installed, along with a Ruby on Rails application with intentionally vulnerable configurations. 
+
+Here's how you can proceed:
+
+1. Save the script to a file, e.g., `Pokemon_vm.sh`.
+2. Replace `/path/to/ubuntu.iso` with the actual path to your Ubuntu ISO file.
+3. Make the script executable by running: `chmod +x Pokemon_vm.sh`.
+4. Run the script: `./Pokemon_vm.sh`.
+
+The script will then proceed to create and configure the VM. Once the setup is complete, you can launch VirtualBox and start the "pokemon" VM to access the Ubuntu environment with the vulnerable Ruby on Rails application installed.
+It's the same for the second one PokemonVM2.sh just a different machine, attacks to use and flag to get.
