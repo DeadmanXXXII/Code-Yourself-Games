@@ -9,3 +9,37 @@ Here's how you can proceed:
 
 The script will then proceed to create and configure the VM. Once the setup is complete, you can launch VirtualBox and start the "pokemon" VM to access the Ubuntu environment with the vulnerable Ruby on Rails application installed.
 It's the same for the second one PokemonVM2.sh just a different machine, attacks to use and flag to get.
+
+Step by step guide for PokemonVM1
+
+1. **Install VirtualBox**: Make sure you have VirtualBox installed on your system. You can download it from the official website: https://www.virtualbox.org/
+
+2. **Download Ubuntu ISO**: Download an Ubuntu ISO file (e.g., Ubuntu Desktop) from the official Ubuntu website: https://ubuntu.com/download/desktop
+
+3. **Update Variables**: Open the script in a text editor and update the following variables according to your preferences:
+   - `VM_NAME`: Name of the virtual machine.
+   - `OS_TYPE`: Type of the guest operating system (e.g., Ubuntu_64).
+   - `ISO_PATH`: Path to the downloaded Ubuntu ISO file.
+   - `VM_RAM`: Amount of RAM for the virtual machine (in MB).
+   - `VM_CPU`: Number of CPU cores for the virtual machine.
+   - `VM_HDD_SIZE`: Size of the virtual hard disk (in MB).
+   - `USER`: Username for the user account to be created inside the VM.
+   - `PASSWORD_HASH`: Hashed password for the user account. You can generate it using `echo -n 'your_password' | sha512sum | cut -d' ' -f1` command.
+   - `JOKE_FLAG`: A joke flag to be placed on the VM's desktop.
+
+4. **Run the Script**: Open a terminal, navigate to the directory containing the script, and execute it using the command:
+   ```
+   bash script_name.sh
+   ```
+
+5. **Follow Instructions**: The script will create and configure the VM, install software, create a vulnerable Ruby on Rails application, and place a joke flag on the desktop.
+
+6. **Enjoy**: Once the script completes execution, your VM setup will be complete. You can now explore the world of Pokémon!
+
+Remember to replace `script_name.sh` with the actual name of your script file.
+
+Step by step guide for PokemonVM2:
+
+
+
+Let me know if you encounter any issues or if you need further assistance!
