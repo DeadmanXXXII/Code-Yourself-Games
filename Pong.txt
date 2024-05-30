@@ -1,0 +1,21 @@
+1. **Install Pygame**: If you haven't already, you need to install Pygame. You can do this via pip in your terminal or command prompt:
+   ```
+   pip install pygame
+   ```
+
+2. **Set Up Your IDE**: Ensure you have an IDE or text editor set up for Python development. You can use any editor you prefer, such as VSCode, PyCharm, or even a simple text editor like Sublime Text or Notepad++.
+
+3. **Copy the Code**: Copy the provided code into a new Python file in your chosen IDE or text editor.
+
+4. **Run the Code**: Execute the Python script either within your IDE or by running it from the command line. This will start the Pygame window with the Pong game running.
+
+5. **Play the Game**: Once the game window is open, you can control the player paddle using the 'W' and 'S' keys (up and down respectively). The objective is to hit the ball with the paddle and prevent it from passing your side of the screen.
+
+6. **Score Points**: Each time you successfully hit the ball with your paddle, you score a point. The game speeds up as your score increases.
+
+7. **Restart the Game**: If the ball passes your paddle and goes off-screen, the game will end. You can restart the game by clicking the "Press to restart" button that appears on the screen.
+
+8. **Enjoy the Game**: Have fun playing Pong!
+
+That's it! You should now have the Pong game up and running on your computer. Let me know if you encounter any issues or if you need further assistance!
+themadhattersplayground@gmail.com
