@@ -40,6 +40,37 @@ Remember to replace `script_name.sh` with the actual name of your script file.
 
 Step by step guide for PokemonVM2:
 
+Certainly! This Bash script sets up a Windows virtual machine (VM) with specific configurations and installs software inside it. 
 
+1. **Install VirtualBox**: Make sure you have VirtualBox installed on your system. You can download it from the official website: https://www.virtualbox.org/
+
+2. **Download Windows ISO**: Download a Windows ISO file (e.g., Windows 10) from the official Microsoft website or through other legitimate sources.
+
+3. **Update Variables**: Open the script in a text editor and update the following variables according to your preferences:
+   - `VM_NAME`: Name of the virtual machine.
+   - `ISO_PATH`: Path to the downloaded Windows ISO file.
+   - `VM_RAM`: Amount of RAM for the virtual machine (in MB).
+   - `VM_CPU`: Number of CPU cores for the virtual machine.
+   - `VM_HDD_SIZE`: Size of the virtual hard disk (in MB).
+   - `USER`: Username for the user account to be created inside the VM.
+   - `PASSWORD`: Password for the user account.
+   - `JOKE_FLAG`: A joke flag to be placed on the VM's desktop.
+
+4. **Run the Script**: Open a terminal, navigate to the directory containing the script, and execute it using the command:
+   ```
+   bash script_name.sh
+   ```
+
+5. **Follow Instructions**: The script will create and configure the VM, attach the Windows ISO, start the VM, create a user account with the specified password, and place a joke flag on the user's desktop.
+
+6. **Enjoy**: Once the script completes execution, your Windows VM setup will be complete. You can now enjoy your journey!
+
+Remember to replace `script_name.sh` with the actual name of your script file.
 
 Let me know if you encounter any issues or if you need further assistance!
+
+
+
+Let me know if you encounter any issues.
+
+themadhattersplayground@gmail.com
