@@ -1,6 +1,6 @@
 ## Tic Tac Toe Simulation in the R language
-## Peter Prevos
-## lucidmanager.org
+## Blu Corbel
+## @TheMadHattersPlayground.com
 
 ## Draw the game board
 draw.board <- function(game) {
