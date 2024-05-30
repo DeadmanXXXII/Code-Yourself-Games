@@ -1,0 +1,19 @@
+1. **Compile the Code**: Save the code in a file with a `.c` extension, such as `snake.c`. Then, compile the code using a C compiler. For example, if you're using GCC, you can compile it in the terminal with:
+   ```
+   gcc snake.c -o snake
+   ```
+
+2. **Run the Executable**: After compiling successfully, you will get an executable file (e.g., `snake` or `snake.exe`). Run this executable in your terminal or command prompt:
+   ```
+   ./snake
+   ```
+
+3. **Play the Game**: Once the game starts, you can control the snake using the WASD keys (W for up, A for left, S for down, and D for right). Try to eat the fruit ('F') to grow longer while avoiding running into the walls or the snake's own tail ('o'). Your score will increase each time you eat a fruit.
+
+4. **End the Game**: The game will end if you run into a wall or the snake's tail. You can manually end the game by pressing 'X'.
+
+5. **Enjoy the Game**: Have fun playing Snake!
+
+That's it! You should now have the Snake game up and running on your computer. Let me know if you encounter any issues or if you need further assistance!
+
+themadhattersplayground@gmail.com
