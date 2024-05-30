@@ -1,0 +1,17 @@
+1. **Install R**: If you haven't already, download and install R from the official website: https://www.r-project.org/.
+
+2. **Set up an IDE or text editor**: You can use RStudio, which provides a user-friendly interface for writing and running R code, or any text editor of your choice.
+
+3. **Copy the code**: Copy the provided code into a new script file in your R environment.
+
+4. **Run the script**: Execute the script line by line or all at once to define the functions and the main game engine.
+
+5. **Play the game**: Once the script is executed, you can start playing the Tic Tac Toe game by calling the `tic.tac.toe()` function.
+
+6. **Follow the instructions**: Depending on the players you've chosen (`player1` and `player2`), the game will prompt you to make moves either as a human player or against the computer.
+
+7. **Enjoy the game**: Have fun playing Tic Tac Toe!
+
+That's it! You should now have the Tic Tac Toe simulation up and running in your R environment. Let me know if you encounter any issues or if you need further assistance!
+themadhattersplayground@gmail.com 
+
