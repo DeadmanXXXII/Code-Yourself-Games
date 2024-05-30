@@ -1,0 +1,50 @@
+1. **Install Rust**: If you haven't already, install Rust from the official website (https://www.rust-lang.org/tools/install).
+
+2. **Create a new Rust project**: Open your terminal or command prompt, navigate to the directory where you want to create your project, and run the command:
+   ```
+   cargo new guessing_game
+   ```
+
+3. **Navigate to the project directory**: Move into the newly created project directory by running:
+   ```
+   cd guessing_game
+   ```
+
+4. **Replace the contents of `src/main.rs`**: Open the `src/main.rs` file in a text editor and replace its contents with the code you provided.
+
+5. **Add dependencies to `Cargo.toml`**: Open the `Cargo.toml` file in the project directory and add the following dependencies under the `[dependencies]` section:
+   ```
+   rand = "0.8.4"
+   ```
+
+6. **Build the project**: In the terminal, run the command:
+   ```
+   cargo build
+   ```
+
+7. **Run the game**: After building the project successfully, run the game with:
+   ```
+   cargo run
+   ```
+
+8. **Follow the prompts**: The game will ask you to input your name and then prompt you to guess the secret number. Follow the prompts until you guess the correct number.
+
+9. **Play and enjoy**: Have fun playing the game! Try to guess the correct number within the given range.
+
+That's it! You now have the game up and running. Let me know if you encounter any issues or if you need further assistance!
+@themadhattersplayground.com
+
+Here are the step-by-step instructions for how the game works:
+
+1. The program prompts the user to input their name using the `println!` macro.
+2. It reads the input name using `std::io::stdin().read_line(&mut name)` and stores it in a variable called `name`.
+3. The program greets the user by printing their name with a welcome message.
+4. It informs the user about the range of the game (-100 to 100).
+5. It generates a random number between -100 and 100 and stores it in a variable called `secret_number`.
+6. The program enters a loop where it repeatedly asks the user to guess the number.
+7. Inside the loop, it reads the user's guess using `std::io::stdin().read_line(&mut guess)`.
+8. It converts the user's guess to an integer using `guess.trim().parse()`.
+9. If the conversion is successful, it compares the guess with the `secret_number`.
+10. Depending on the comparison result, it informs the user if their guess is too small, too big, or correct.
+11. If the guess is correct, it prints a congratulatory message and breaks out of the loop.
+12. After the loop, it prints a message indicating that the game was built in Rust by Blú Corbel.
