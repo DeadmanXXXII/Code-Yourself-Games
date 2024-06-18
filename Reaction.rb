@@ -23,7 +23,7 @@ on :mouse_down do |event|
     square = Square.new(
       x: rand(get(:width) - 25), y: rand(get(:height) - 25),
       size: 25,
-      color: 'purple'
+      color: 'rainbow'
     )
 
     start_time = Time.now
