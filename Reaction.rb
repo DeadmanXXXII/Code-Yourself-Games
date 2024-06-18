@@ -1,6 +1,6 @@
 require 'ruby2d'
 
-set background: 'rainbow'
+set background: 'crimson'
 set title: 'Reaction Game'
 
 message = Text.new('Click to begin', x: 20, y: 20)
@@ -23,7 +23,7 @@ on :mouse_down do |event|
     square = Square.new(
       x: rand(get(:width) - 25), y: rand(get(:height) - 25),
       size: 25,
-      color: 'rainbow'
+      color: 'black'
     )
 
     start_time = Time.now
