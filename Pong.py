@@ -97,7 +97,7 @@ while running:
     computer = pygame.draw.rect(screen, white, [285, computer_y, 10, 40])
     ball = pygame.draw.rect(screen, white, [ball_x, ball_y, 10, 10])
     score_text = font.render('Score: '+ str(score), True, white, black)
-    screen.blit(score_text, (80, 30))
+    screen.blit(score_text, (112.5, 30))
 
     if not game_over:
         computer_y = update_ai(ball_y, computer_y)
@@ -106,10 +106,10 @@ while running:
 
     if game_over:
         game_over_text = font.render('Game Over!', True, white, black)
-        screen.blit(game_over_text, (80, 130))
-        restart_button = pygame.draw.rect(screen, black, [70, 150, 100, 20])
+        screen.blit(game_over_text, (93.5, 130))
+        restart_button = pygame.draw.rect(screen, black, [110, 150, 100, 20])
         restart_text = font.render('Press to restart.', True, white, black)
-        screen.blit(restart_text, (70, 150))
+        screen.blit(restart_text, (71.5, 150))
 
     for event in pygame.event.get():
 
