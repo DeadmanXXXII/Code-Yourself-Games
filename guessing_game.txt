@@ -10,9 +10,9 @@
    cd guessing_game
    ```
 
-4. **Replace the contents of `src/main.rs`**: Open the `src/main.rs` file in a text editor and replace its contents with the code you provided.
+4. **Replace the contents of `src/main.rs`**: Open the `src/main.rs` file in a text editor and replace its contents with the code you provided. cd source then dir check for main.rs file then notepad main.rs ctrl + s to save aftercopy and pasting.
 
-5. **Add dependencies to `Cargo.toml`**: Open the `Cargo.toml` file in the project directory and add the following dependencies under the `[dependencies]` section:
+5. **Add dependencies to `Cargo.toml`**: Open the `Cargo.toml` file in the project directory and add the following dependencies under the `[dependencies]` section: notepad cargo.toml windows ctrl + s to save.
    ```
    rand = "0.8.4"
    ```
