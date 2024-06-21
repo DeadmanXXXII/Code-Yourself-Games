@@ -1,4 +1,11 @@
-If you are old enough and skilled enough to have completed the code yourself games read this list. It is not for anyone under 13 and the skills you learn can land you in jail if you use them incorrectly. However, this said learning them gives you a major advantage in the future. Especially if you can't afford to go too university.
+If you are old enough and skilled enough to have completed the code yourself games read this list. It is not for anyone under 13 and the skills you learn can land you in jail if you use them incorrectly. 
+However, this said learning them gives you a major advantage in the future. Especially if you can't afford to go too university.
+This list will continue to grow the more I educate myself and update this entry. If I did it you can too.
+
+This is just one fifth of the pages of the people that have taught me what I know.
+I will continue to expand this so you can learn what I have. the video list contains 389 videos, 70 courses with certificates, 19 badges, 11 without, I think its literally including coding IDE's packet tracer, VM's, self hosts etc. the home labs count come to about roughly 3000 or close to it, maybe more once this list is finished. 
+Obviosly catching up with my reporting admin this will contain links to Linkedin profiles, whatsapp channels, instagram accounts, discord servers, apps, documents, completion reports and so on. 
+Do not go anywhere else in this account unless you have at least 5 badges or certificates and 10 labs I have recommended or you may end up with broken equipment.
 
 Actual hacking sites that are free to learn in certain conditions like 2 hours per week on a Virtual Machine:
 
@@ -6,20 +13,26 @@ https://hackthebox.com
 https://tryhackme.com
 https://vulnhub.com
 
-Free educational sites they also have paid for products so be careful when navigating make sure the course price says free. If you need help ask a grown up I don't think your parents will care that you want extra homework this is just cool to do and know.
+Free educational sites they also have paid for products so be careful when navigating make sure the course price says free. If you need help ask a grown up I don't think your parents will care that you want extra homework this is just cool to do and know. I never had any issues with content access with these courses I did.
 
-https://apisecu.com
-https://isc2.com
-https://simplilearn.com
-https://ec-council.com
-https://cisconetacad.net
-https://harvardonline.com
-https://mitonline.com
+https://apisecu.com (penetration testing, attached cars and fleets, fundamentals)
+https://isc2.com (C|C)
+https://simplilearn.com (CISSP, Data Science in R)
+https://ec-council.com (Introduction to dark web operation)
+https://cisconetacad.net (Ethical Hacking, 
+https://harvardonline.com (CS50 no cert)
+https://mitonline.com (computer science fundamentals no cert)
+https;//microsoftlearn.com (Azure network ninja)
+https://googlecloudlearn.com  (Introduction to generative AI, google cloud architect, google cloud practitioner.
+https://sli;;sforall.net (CCNA7)
+https://linkinlearning.com (Loads)
+https://codeinstitute.com (5 day coding challenge repository included.)
 
 If you get a certificate or a badge in some basic courses check out these YouTube videos they are my personal list of YouTube Professors with educational videos and follow along home labs that are all extremely successful in their individual fields. 
 They range from individual start-up entrepreneurs that hit the industry hard and grafted a reputation or they chiseled away with finesse and earned PhDs with masterpieces all of the information these people release is true and correct. 
 If they go a little to fast you can always pause catch up and continue. It may cost to subscribe to some of these but to view their information isn't and they still get viewer payments and add fees from you watching that's how to really hack the algorithm btw. 
 You get free education content paid for by the advertisement,hosting companies and sometimes the individual so always smash like please.
+Some of them do have their own websites where you can earn certificates and badges now.
 
 YouTube Professors list:
 
@@ -158,6 +171,3 @@ There order are not relevant in anyway.
 64:https://youtube.com/@simplycyber?si=EHYpX6PlPqBt3wmO
 
 65:https://youtube.com/@thegaryruddell?si=ZTwmwdkflYBWLnPa
-
-This is just one fifth of the pages of the people that have taught me what I know.
-I will continue to expand this.
