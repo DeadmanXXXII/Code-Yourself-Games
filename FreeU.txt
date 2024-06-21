@@ -9,17 +9,18 @@ Do not go anywhere else in this account unless you have at least 5 badges or cer
 
 Actual hacking sites that are free to learn in certain conditions like 2 hours per week on a Virtual Machine:
 
-https://hackthebox.com
-https://tryhackme.com
-https://vulnhub.com
+https://hackthebox.com (STarting Point path, Crest CRT path)
+https://tryhackme.com (SOC ananlyst path)
+https://vulnhub.com (All machinees)
+https://dvwa.com (complete)
 
 Free educational sites they also have paid for products so be careful when navigating make sure the course price says free. If you need help ask a grown up I don't think your parents will care that you want extra homework this is just cool to do and know. I never had any issues with content access with these courses I did.
 
 https://apisecu.com (penetration testing, attached cars and fleets, fundamentals)
 https://isc2.com (C|C)
-https://simplilearn.com (CISSP, Data Science in R)
+https://simplilearn.com (CISSP, Data Science in R, CCNA fundamentals)
 https://ec-council.com (Introduction to dark web operation)
-https://cisconetacad.net (Ethical Hacking, 
+https://cisconetacad.net (Ethical Hacking and another one I'll find later and add I dont want to say ive got something I have'nt.)
 https://harvardonline.com (CS50 no cert)
 https://mitonline.com (computer science fundamentals no cert)
 https;//microsoftlearn.com (Azure network ninja)
@@ -27,11 +28,24 @@ https://googlecloudlearn.com  (Introduction to generative AI, google cloud archi
 https://sli;;sforall.net (CCNA7)
 https://linkinlearning.com (Loads)
 https://codeinstitute.com (5 day coding challenge repository included.)
+https://networkchuckacademy.com (all certs)
+https://tcmsecacademy.com (P|EH, PWST)
+https://antisyphontraining.com/paywhatyoucan (Mitre Att&ck, and another somewhere to be found in my files and as I went reports.) 
+
+This was a crazy education journey for the past few years I have all sorts from knowing nothing but using a computer for nothinng but watching telly and a free text service at the house. To a full on Purple team Architect. With all sorts of ideas for attacking,defending and clearly educating too. 
+
+Apps:
+AWS learning
+azure learn
+powershell learn
+learn to rust (Awesome has a book as a logo)
+
+
 
 If you get a certificate or a badge in some basic courses check out these YouTube videos they are my personal list of YouTube Professors with educational videos and follow along home labs that are all extremely successful in their individual fields. 
 They range from individual start-up entrepreneurs that hit the industry hard and grafted a reputation or they chiseled away with finesse and earned PhDs with masterpieces all of the information these people release is true and correct. 
-If they go a little to fast you can always pause catch up and continue. It may cost to subscribe to some of these but to view their information isn't and they still get viewer payments and add fees from you watching that's how to really hack the algorithm btw. 
-You get free education content paid for by the advertisement,hosting companies and sometimes the individual so always smash like please.
+If they go a little to fast you can always pause catch up and continue. It may cost to subscribe to some of these but to view their information isn't and they still get viewer payments and advertising fees from you watching that's how to really hack the algorithm btw. 
+You get free education content paid for by the advertisement, hosting companies and sometimes the individual so always smash like please.
 Some of them do have their own websites where you can earn certificates and badges now.
 
 YouTube Professors list:
@@ -39,7 +53,7 @@ YouTube Professors list:
 This list to date has 65 entries in it.
 There order are not relevant in anyway.
 
-1:https://youtube.com/@themadhattersplayground?si=UxKQwNT1uTlxq20U (Me CyberShorts is awesome the rest is politics and religious views don’t watch them if you’re easily offended.
+1:https://youtube.com/@themadhattersplayground?si=UxKQwNT1uTlxq20U (Me CyberShorts is awesome the rest is politics and religious views don’t watch them if you’re easily offended.)
 
 2:https://youtube.com/@loiliangyang?si=Q4qcwfs-BstYOmAE
 
