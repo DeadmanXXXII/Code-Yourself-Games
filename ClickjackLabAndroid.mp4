@@ -1,8 +1,12 @@
-So today I built my own lab.
+So today I built my own lab. Which is underneath Getting started.
 Clickjacked by Nethunter. 
 Works well and in the third last photo you can see my almost opaque overlay in the hosted files.
 
 To do this lab you have to have nethunter this can be for android or iPhone there are two ways to do this that works.
+
+1: Getting started:
+
+Lab Begins:
 
 One: find David Bombal on YouTube the link is in FreeU.txt find his Nethunter installation video and follow the steps.
 https://youtu.be/KxOGyuGq0Ts?si=a3Mdc-4VtLAgnFB1
@@ -33,6 +37,10 @@ apt update && upgrade -y
 (this takes a while)
 apt install python3
 apt install wget -y
+
+Lab Ends.
+
+2: Nethunter Clickjacked:
 
 Lab Begins:
 
@@ -75,11 +83,11 @@ wget -u https://github.dev/DeadmanXXXII/attack/blame/main/clickjackingselfhost.h
 
 ensure href=http://0.0.0.0:8000/
 or.    src=same as above unless it ends with .img or .jpeg that is the hosted picture which you can change for a malicious one at a later lab.
-if not
+If not
 nano index.html
 or
 vim index.html
-and paste that in above if it has quotes out it in quotes.
+and paste that in above if it has quotes put it in quotes.
 
 python3 --version make sure it says over 3.11.0
 
@@ -93,11 +101,12 @@ If the button hasn't appeared then that attack doesn't work with your particular
 
 Change the attacks as mentioned above they all only need the same alterations they will say WhatsApp or GitHub from bug hunting. They say they have defense what'sapp didn't. 
 GitHub owned me though no matter how complicated I built it. 
-Some just have an opaque overlay, others have just the word click me with an invisible button, some when you touch text will redirect you to my website or a .json file you can also host.
+Some just have an opaque overlay, others have just the words click me with an invisible button, some when you touch text, it will redirect you to my website or a .json file you can also host.
 
 Happy hacking hackers.
 DeadmanXXXII
 
 This labelled.mp4 as once I'm home I'll be on my computer and will upload videos if I can figure out how to video upload in the GitHub.dev app.
+
 
 
