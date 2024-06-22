@@ -5,8 +5,13 @@ Works well and in the third last photo you can see my almost opaque overlay in t
 To do this lab you have to have nethunter this can be for android or iPhone there are two ways to do this that works.
 
 One: find David Bombal on YouTube the link is in FreeU.txt find his Nethunter installation video and follow the steps.
+https://youtu.be/KxOGyuGq0Ts?si=a3Mdc-4VtLAgnFB1
 
-Two: My way 
+Two: My way
+download and install termux from https://termux.dev/
+or 
+https://github.com/termux/termux-packages/issues/6726
+
 pkg install wget
 wget -U https://findlinkyourself/os-version/install-nethunter-full-termux 
 pkg update && upgrade 
@@ -88,6 +93,6 @@ Some just have an opaque overlay, others have just the word click me with an inv
 Happy hacking hackers.
 DeadmanXXXII
 
-This labelled.mp4 as once I'm home I'll be on my computer and will upload videos if I can figure out how to video upload in the GitHub.dev app
+This labelled.mp4 as once I'm home I'll be on my computer and will upload videos if I can figure out how to video upload in the GitHub.dev app just found this today.
 
 
