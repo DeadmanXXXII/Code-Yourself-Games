@@ -1,3 +1,7 @@
+### These machines are in no way affiliated with Pokemon official companies.
+
+## I'm more of a fan and it means changing the flags up is easy.
+
 If you run this script on a system where VirtualBox is installed, it will configure and set up a VirtualBox VM named "pokemon" with Ubuntu installed, along with a Ruby on Rails application with intentionally vulnerable configurations. 
 
 Here's how you can proceed:
